@@ -8,6 +8,7 @@ Je vais vous présenter ma liste de shortcuts pour pas mal d'appli que j'utilise
 - `Ctrl + w` Ferme l'onglet courant
 - `Ctrl + e` Accède à l'URL
 - `Ctrl + TAB` vas a l'onglet suivant
+- `Ctrl + shift + TAB` vas a l'onglet précédent
 - `Ctrl + Shift + t` Permet de récupérer le dernier onglet fermé (merci bastien tu régale avec ça)
 - `Ctrl + f` Recherche un élément dans la page
 - `Ctrl + r` Recharge la page
