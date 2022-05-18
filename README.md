@@ -18,7 +18,8 @@ Je vais vous présenter ma liste de shortcuts pour pas mal d'appli que j'utilise
 
 ## XFCE Term :
 - `Ctrl + u` Suprime la saisie
-- 
+- `Ctrl + a` Vas au début de la ligne
+- `Ctrl + e` Vas à la fin de la ligne
 
 
 ## Visual Studio Code :
