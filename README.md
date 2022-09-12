@@ -32,7 +32,7 @@ Je vais vous présenter ma liste de shortcuts pour pas mal d'appli que j'utilise
 
 -  ` Ctrl + k` PUIS `Z` Permet d'activer le mode "zen"
 
-- `Ctrl + Shift + /` Commande la zone sélectionnée
+- `Ctrl + Shift + /` Commente la zone sélectionnée
 
 - `Ctrl + q` Ferme visual studio code (marche avec d'autre applie, à tester)
 
