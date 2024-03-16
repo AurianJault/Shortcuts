@@ -23,7 +23,7 @@ Je vais vous présenter ma liste de shortcuts pour pas mal d'appli que j'utilise
 - `Ctrl + e` Vas à la fin de la ligne
 
 
-## Visual Studio Code :
+## Visual Studio Code (utilise maintenant VIM):
 
 - `Ctrl + shift + l` Sélectionne le mots partous dans le fichier
 
